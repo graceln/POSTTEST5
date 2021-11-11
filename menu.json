@@ -1,0 +1,164 @@
+{
+    "menu": [
+        {
+            "Nama Menu": "Nama Menu",
+            "Harga": "Harga",
+            "Stok": "Stok"
+        },
+        {
+            "Nama Menu": "baguette",
+            "Harga": 20000,
+            "Stok": 1
+        },
+        {
+            "Nama Menu": "garlic bread",
+            "Harga": 25000,
+            "Stok": 2
+        },
+        {
+            "Nama Menu": "bread rolls",
+            "Harga": 15000,
+            "Stok": 3
+        },
+        {
+            "Nama Menu": "cheese pillow",
+            "Harga": 5000,
+            "Stok": 4
+        },
+        {
+            "Nama Menu": "butter sugar",
+            "Harga": 35000,
+            "Stok": 5
+        },
+        {
+            "Nama Menu": "croissant",
+            "Harga": 20000,
+            "Stok": 4
+        },
+        {
+            "Nama Menu": "choco cheese",
+            "Harga": 15000,
+            "Stok": 5
+        },
+        {
+            "Nama Menu": "cheese cake",
+            "Harga": 12000,
+            "Stok": 3
+        },
+        {
+            "Nama Menu": "brownies",
+            "Harga": 10000,
+            "Stok": 2
+        }
+    ],
+    "history": [
+        {
+            "tanggal": "Tanggal",
+            "penghasilan": "Penghasilan"
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 50000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 50000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 25000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 50000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 50000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 10000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 10000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 10000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 25000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 270000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 40000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 25000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 157500
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 10000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 54000
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 157500
+        },
+        {
+            "tanggal": "03 - Nov - 2021",
+            "penghasilan": 175500
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 315000
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 54000
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 54000
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 54000
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 54000
+        },
+        {
+            "tanggal": "11 - Nov - 2021",
+            "penghasilan": 64800
+        },
+        {
+            "tanggal": "12 - Nov - 2021",
+            "penghasilan": 30000
+        },
+        {
+            "tanggal": "12 - Nov - 2021",
+            "penghasilan": 24000
+        },
+        {
+            "tanggal": "12 - Nov - 2021",
+            "penghasilan": 57600
+        }
+    ]
+}
